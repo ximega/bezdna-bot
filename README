@@ -1,0 +1,14 @@
+If want to edit TOKEN, got to .env and put own TOKEN
+
+Need to install python of version 3.13.0 or later
+
+Install requirements:
+pip install requirements.txt
+
+Run by:
+1) Linux/MacOS - 
+./main.py
+py main.py
+
+2) Windows
+py main.py
